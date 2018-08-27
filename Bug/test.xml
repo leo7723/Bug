@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <account type='createText'>
+        <text>test data</text>
+    </account>
+    <account type='email'>
+        <username>11111@qq.com</username>
+        <password>11111111</password>
+    </account>
+</data>
